@@ -1,0 +1,8 @@
+{
+  "name": "wechsel",
+  "description": "Effortlessly create, build, and deploy native Android APKs directly to your device\u0027s root directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
